@@ -57,6 +57,8 @@ namespace Yoast\YoastCom\Theme;
 					</p>
 					<input type="submit" class="button default" value="Search"/>
 				</form>
+
+				<div id="content"></div>
 			<?php } ?>
 		</div>
 
